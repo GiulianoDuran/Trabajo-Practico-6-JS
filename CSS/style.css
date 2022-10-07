@@ -1,10 +1,16 @@
+.grid{
+    display: grid;
+    grid-template-columns: 300px 150px;
+    grid-template-rows: 200px;
+}
+
 .titulo{
     text-align: center;
     font-style: Liberation Serif;
-    font-size: 20cm;
+    font-size: 20;
 }
 
 .TP{
     font-style: Times New Roman;
-    font-size: 12cm;
+    font-size: 12;
 }
